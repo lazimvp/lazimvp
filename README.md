@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lazimvp.
 - 👀 I’m interested in tech,automobiles and media.
-- 🌱 I’m currently learning c,python,figma,html,davinci resolve, etc.
-- 💞️ I’m looking to collaborate on video editing works and small website and coding projects.
+- 🌱 I’m currently learning software development and AI.
+- 💞️ I’m looking to collaborate on website and app building projects.
 - 📫 How to reach me : email- lasimvp83@gmail.com, instagram- lazimvp_ .
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Scared of spiders 😂
